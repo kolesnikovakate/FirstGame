@@ -27,6 +27,7 @@
 		C0E3DDBE1A0B4E7800B7B8B7 /* whitebg.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E3DDB81A0B4E7800B7B8B7 /* whitebg.png */; };
 		C0E3DDBF1A0B4E7800B7B8B7 /* whitebg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C0E3DDB91A0B4E7800B7B8B7 /* whitebg@2x.png */; };
 		C0E3DDC11A0B556100B7B8B7 /* Array2D.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDC01A0B556100B7B8B7 /* Array2D.swift */; };
+		C0E3DDC31A0B587900B7B8B7 /* Block.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDC21A0B587900B7B8B7 /* Block.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		C0E3DDB81A0B4E7800B7B8B7 /* whitebg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whitebg.png; sourceTree = "<group>"; };
 		C0E3DDB91A0B4E7800B7B8B7 /* whitebg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whitebg@2x.png"; sourceTree = "<group>"; };
 		C0E3DDC01A0B556100B7B8B7 /* Array2D.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array2D.swift; sourceTree = "<group>"; };
+		C0E3DDC21A0B587900B7B8B7 /* Block.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Block.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 			children = (
 				C0E3DD821A0B4C9D00B7B8B7 /* AppDelegate.swift */,
 				C0E3DD861A0B4C9D00B7B8B7 /* GameScene.swift */,
+				C0E3DDC21A0B587900B7B8B7 /* Block.swift */,
 				C0E3DD881A0B4C9D00B7B8B7 /* GameViewController.swift */,
 				C0E3DDC01A0B556100B7B8B7 /* Array2D.swift */,
 				C0E3DD8A1A0B4C9D00B7B8B7 /* Main.storyboard */,
@@ -284,6 +287,7 @@
 			files = (
 				C0E3DD871A0B4C9D00B7B8B7 /* GameScene.swift in Sources */,
 				C0E3DDC11A0B556100B7B8B7 /* Array2D.swift in Sources */,
+				C0E3DDC31A0B587900B7B8B7 /* Block.swift in Sources */,
 				C0E3DD891A0B4C9D00B7B8B7 /* GameViewController.swift in Sources */,
 				C0E3DD831A0B4C9D00B7B8B7 /* AppDelegate.swift in Sources */,
 			);
