@@ -36,6 +36,7 @@
 		C0E3DDCF1A0B610B00B7B8B7 /* JShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDCE1A0B610B00B7B8B7 /* JShape.swift */; };
 		C0E3DDD11A0B613400B7B8B7 /* SShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDD01A0B613400B7B8B7 /* SShape.swift */; };
 		C0E3DDD31A0B614B00B7B8B7 /* ZShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDD21A0B614B00B7B8B7 /* ZShape.swift */; };
+		C0E3DDD61A0B622500B7B8B7 /* Swiftris.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E3DDD51A0B622500B7B8B7 /* Swiftris.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +83,7 @@
 		C0E3DDCE1A0B610B00B7B8B7 /* JShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JShape.swift; sourceTree = "<group>"; };
 		C0E3DDD01A0B613400B7B8B7 /* SShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SShape.swift; sourceTree = "<group>"; };
 		C0E3DDD21A0B614B00B7B8B7 /* ZShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZShape.swift; sourceTree = "<group>"; };
+		C0E3DDD51A0B622500B7B8B7 /* Swiftris.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Swiftris.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				C0E3DD861A0B4C9D00B7B8B7 /* GameScene.swift */,
 				C0E3DDC21A0B587900B7B8B7 /* Block.swift */,
 				C0E3DDC41A0B5A5100B7B8B7 /* Shape.swift */,
+				C0E3DDD51A0B622500B7B8B7 /* Swiftris.swift */,
 				C0E3DDD41A0B617E00B7B8B7 /* Shapes */,
 				C0E3DD881A0B4C9D00B7B8B7 /* GameViewController.swift */,
 				C0E3DDC01A0B556100B7B8B7 /* Array2D.swift */,
@@ -321,6 +324,7 @@
 				C0E3DDC71A0B5E1B00B7B8B7 /* SquareShape.swift in Sources */,
 				C0E3DD871A0B4C9D00B7B8B7 /* GameScene.swift in Sources */,
 				C0E3DDCF1A0B610B00B7B8B7 /* JShape.swift in Sources */,
+				C0E3DDD61A0B622500B7B8B7 /* Swiftris.swift in Sources */,
 				C0E3DDC51A0B5A5100B7B8B7 /* Shape.swift in Sources */,
 				C0E3DDC11A0B556100B7B8B7 /* Array2D.swift in Sources */,
 				C0E3DDCB1A0B60D300B7B8B7 /* LineShape.swift in Sources */,
